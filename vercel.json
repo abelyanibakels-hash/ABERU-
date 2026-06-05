@@ -1,0 +1,11 @@
+{
+  "name": "ABERU",
+  "version": 2,
+  "public": true,
+  "buildCommand": "",
+  "env": [],
+  "github": {
+    "enabled": true,
+    "autoAlias": true
+  }
+}
